@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "a3de0927-1bce-4b49-8472-cb02ebbc3445",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14951190",
+		"_collection_link": "https://www.postman.com/planetary-shadow-727499/workspace/procesos-workspace/collection/14951190-a3de0927-1bce-4b49-8472-cb02ebbc3445?action=share&source=collection_link&creator=14951190"
+	},
+	"item": [
+		{
+			"name": "GetToken",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetStudent",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetTeacher",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetProgram",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetStudentXprogram",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
